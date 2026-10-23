@@ -2,11 +2,11 @@
 
 A modern, high-performance full-stack web application built with **Next.js App Router**, **TypeScript**, and **Tailwind CSS**, featuring secure authentication and server-side rendering.
 
-🔗 **Live Demo:** [https://next-js-project-beta-ebon.vercel.app](https://next-js-project-beta-ebon.vercel.app)
+**Live Demo:** [https://next-js-project-beta-ebon.vercel.app](https://next-js-project-beta-ebon.vercel.app)
 
 ---
 
-## 🌟 Key Architecture & Features
+## Key Architecture & Features
 
 ### 1. Modern Next.js App Router Architecture
 - **Server Components & Streaming:** Built using Next.js React Server Components (RSC) with Suspense boundaries for fast initial page loads and streaming responses.
@@ -26,7 +26,7 @@ A modern, high-performance full-stack web application built with **Next.js App R
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/) (App Router, Server Actions)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
@@ -37,7 +37,7 @@ A modern, high-performance full-stack web application built with **Next.js App R
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 ### Prerequisites
 - Node.js 18.x or later
@@ -73,5 +73,5 @@ A modern, high-performance full-stack web application built with **Next.js App R
 
 ---
 
-## 📄 License
+## License
 MIT License
